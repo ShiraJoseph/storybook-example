@@ -2,25 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27de06d3-407b-42db-ad3f-aac45a6f6c97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/taskbox/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taskbox/.eslintcache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taskbox/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taskbox/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taskbox/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taskbox/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taskbox/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taskbox/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taskbox/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taskbox/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taskbox/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taskbox/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taskbox/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taskbox/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taskbox/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taskbox/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taskbox/src/reportWebVitals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taskbox/src/setupTests.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taskbox/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/InboxScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/InboxScreen.stories.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +45,7 @@
       <option name="presentableId" value="Default" />
       <updated>1610642327574</updated>
       <workItem from="1610642328760" duration="653000" />
+      <workItem from="1610728186941" duration="1395000" />
     </task>
     <servers />
   </component>
