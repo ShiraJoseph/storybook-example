@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27de06d3-407b-42db-ad3f-aac45a6f6c97" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/taskbox/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskbox/.eslintcache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskbox/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskbox/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskbox/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskbox/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskbox/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskbox/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskbox/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskbox/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskbox/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskbox/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskbox/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskbox/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskbox/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskbox/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskbox/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskbox/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskbox/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1n4HE16twIllxXyjsPfLryjRyMD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27de06d3-407b-42db-ad3f-aac45a6f6c97" name="Default Changelist" comment="" />
+      <created>1610642327574</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610642327574</updated>
+      <workItem from="1610642328760" duration="653000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="234" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610642714095">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="765" y="234" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.804@0.23.1440.804" timestamp="1610642714095" />
+  </component>
+</project>
